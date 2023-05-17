@@ -2,3 +2,5 @@ rencana
 - menyelesaikan web jasa undangan digital
 - membuat portofolio
 - mempelajari ilmu front end
+- membuat web buat bengkel bapak
+- belajar kreatif
